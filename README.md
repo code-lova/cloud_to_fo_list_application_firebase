@@ -4,7 +4,7 @@ This project is a simple command-line To-Do List application that integrates wit
 
 The purpose of building this software is to explore the use of cloud databases in practical applications and to understand how Python can be used to perform CRUD operations on remote databases. This project helps me build foundational knowledge in cloud database integration, which is a valuable skill in modern software development.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=w-EtRphzPXU&feature=youtu.be)
 
 # Cloud Database
 
@@ -39,6 +39,8 @@ users (collection)
     - To install the required library:
     - ```bash
     - pip install firebase-admin
+- **Run:**
+    - python3 main.py
 
 
 
